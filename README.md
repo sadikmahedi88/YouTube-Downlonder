@@ -46,8 +46,8 @@ For downloading high-quality videos (1080p+) or merging/extracting audio, **FFmp
 
 1. **Clone the repository** (or download the script):
    ```bash
-   git clone [https://github.com/sadikmahedi88/YOUR_REPO_NAME.git](https://github.com/sadikmahedi88/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone [https://github.com/sadikmahedi88/YouTube-Downlonder.git]([https://github.com/sadikmahedi88/YouTube-Downlonder.git)
+   cd YouTube-Downlonder 
 
 
 2. Run the script:
